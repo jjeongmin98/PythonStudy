@@ -15,3 +15,4 @@ for i in range(1,51):
     else:
         print("[ ] {0}번째 손님 (소요시간 : {1}분".format(i,n))
 print("총 탑승 승객 : {0}분".format(count))
+print("g")
