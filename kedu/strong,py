@@ -1,0 +1,7 @@
+#표현식
+123 #숫자
+10 + 20 + 30+ 40 #수식
+"Hello Python" # 문자
+print("Hello Python") #문장
+
+#키워드 : 의사코드명령(psudo)
