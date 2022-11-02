@@ -3,4 +3,20 @@
 ## 1. 키워드는 사용할 수 없다.
 ## 2. 특수문자 : _
 ## 3. 금지 : 숫자로 시작, 공백X
-True # 키워드
+# True # 키워드
+# 123tm # 숫자
+# tm 123 # 공백
+## 1. 스네이크 케이스 : _식별자 = _for
+## 2. 케멀 케이스 :  첫글자를 대문자 = ItemList
+## 변수 vs 함수
+## 함수(소괄호가 있음)
+#print()
+#list()
+#soup.select()
+# 변수
+# math.pi
+
+# 클래스
+# calss Animal:
+# beautifulSoup()
+
