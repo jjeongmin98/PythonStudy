@@ -7,4 +7,5 @@ def solution(x):
                         if i[i-3] == 1:
                             cnt+=1
                             
+    print('heelo')
     return cnt
