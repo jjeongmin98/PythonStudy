@@ -8,4 +8,5 @@ def solution(x):
                             cnt+=1
                             
     print('heelo')
+    print("hello")
     return cnt
